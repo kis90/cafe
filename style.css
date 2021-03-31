@@ -1,5 +1,5 @@
 #box{
-	margin: 20px 10px auto 10px;
+	margin: 25px 7px auto 7px;
 }
 #box{
 	position: relative;
@@ -40,7 +40,7 @@ input{
 	margin-bottom: 15px;
 }
 #sub{
-	width:137px;
+	width:157px;
 	height: 26px;
 	margin-bottom: 15px;	
 	background-color: #428CE1;
